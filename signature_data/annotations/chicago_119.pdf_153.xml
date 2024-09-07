@@ -1,0 +1,1 @@
+<annotation><folder>augmented_images</folder><filename>chicago_119.pdf_153.xml</filename><path>chicago_119.pdf_153.xml</path><size><width>1707</width><height>2200</height><depth>1</depth></size><object><name>signature</name><bndbox><xmin>268</xmin><xmax>607</xmax><ymin>806</ymin><ymax>891</ymax></bndbox></object></annotation>
