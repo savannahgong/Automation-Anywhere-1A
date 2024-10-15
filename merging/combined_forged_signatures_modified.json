@@ -1,0 +1,6602 @@
+[
+    {
+        "file_name": "check_008_001_F1_0.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1549,
+            599,
+            1715,
+            779
+        ]
+    },
+    {
+        "file_name": "check_009_001_F1_0.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2466,
+            856,
+            2750,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_010_001_F1_0.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            2009,
+            553,
+            2200,
+            760
+        ]
+    },
+    {
+        "file_name": "check_005_001_F1_0.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1165,
+            563,
+            1331,
+            743
+        ]
+    },
+    {
+        "file_name": "check_001_001_F1_0.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1648,
+            410,
+            1813,
+            589
+        ]
+    },
+    {
+        "file_name": "check_010_001_F1_1.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1876,
+            553,
+            2100,
+            760
+        ]
+    },
+    {
+        "file_name": "check_004_001_F1_1.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            642,
+            239,
+            734,
+            324
+        ]
+    },
+    {
+        "file_name": "check_003_001_F1_1.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            787,
+            237,
+            881,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_001_F1_1.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1163,
+            493,
+            1366,
+            681
+        ]
+    },
+    {
+        "file_name": "check_005_001_F1_1.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1291,
+            563,
+            1485,
+            743
+        ]
+    },
+    {
+        "file_name": "check_009_001_F1_2.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2394,
+            856,
+            2668,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_004_001_F1_2.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            692,
+            239,
+            768,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_001_F1_2.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1126,
+            563,
+            1287,
+            743
+        ]
+    },
+    {
+        "file_name": "check_007_001_F1_2.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            701,
+            262,
+            795,
+            368
+        ]
+    },
+    {
+        "file_name": "check_002_001_F1_2.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1123,
+            493,
+            1291,
+            681
+        ]
+    },
+    {
+        "file_name": "check_009_001_F1_3.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2481,
+            856,
+            2800,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_008_001_F1_3.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1596,
+            599,
+            1783,
+            779
+        ]
+    },
+    {
+        "file_name": "check_005_001_F1_3.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1344,
+            563,
+            1531,
+            743
+        ]
+    },
+    {
+        "file_name": "check_001_001_F1_3.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1542,
+            410,
+            1728,
+            589
+        ]
+    },
+    {
+        "file_name": "check_002_001_F1_3.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1085,
+            493,
+            1280,
+            681
+        ]
+    },
+    {
+        "file_name": "check_001_001_F1_4.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1637,
+            410,
+            1812,
+            589
+        ]
+    },
+    {
+        "file_name": "check_003_001_F1_4.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            752,
+            237,
+            837,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_001_F1_4.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1073,
+            493,
+            1257,
+            681
+        ]
+    },
+    {
+        "file_name": "check_008_001_F1_4.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1531,
+            599,
+            1707,
+            779
+        ]
+    },
+    {
+        "file_name": "check_009_001_F1_4.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2610,
+            856,
+            2911,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_003_001_F1_5.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            757,
+            237,
+            851,
+            324
+        ]
+    },
+    {
+        "file_name": "check_010_001_F1_5.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            2015,
+            553,
+            2238,
+            760
+        ]
+    },
+    {
+        "file_name": "check_007_001_F1_5.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            716,
+            262,
+            830,
+            368
+        ]
+    },
+    {
+        "file_name": "check_009_001_F1_5.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2265,
+            856,
+            2596,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_001_001_F1_5.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1570,
+            410,
+            1763,
+            589
+        ]
+    },
+    {
+        "file_name": "check_007_001_F1_6.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            831,
+            262,
+            916,
+            368
+        ]
+    },
+    {
+        "file_name": "check_009_001_F1_6.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2381,
+            856,
+            2628,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_002_001_F1_6.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1182,
+            493,
+            1333,
+            681
+        ]
+    },
+    {
+        "file_name": "check_004_001_F1_6.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            682,
+            239,
+            750,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_001_F1_6.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1317,
+            563,
+            1462,
+            743
+        ]
+    },
+    {
+        "file_name": "check_007_001_F1_7.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            740,
+            262,
+            897,
+            368
+        ]
+    },
+    {
+        "file_name": "check_002_001_F1_7.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            892,
+            493,
+            1171,
+            681
+        ]
+    },
+    {
+        "file_name": "check_010_001_F1_7.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1893,
+            553,
+            2200,
+            760
+        ]
+    },
+    {
+        "file_name": "check_005_001_F1_7.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1189,
+            563,
+            1456,
+            743
+        ]
+    },
+    {
+        "file_name": "check_006_001_F1_7.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            741,
+            260,
+            899,
+            367
+        ]
+    },
+    {
+        "file_name": "check_008_003_F1_0.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1543,
+            600,
+            1851,
+            779
+        ]
+    },
+    {
+        "file_name": "check_005_003_F1_0.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1127,
+            564,
+            1435,
+            743
+        ]
+    },
+    {
+        "file_name": "check_003_003_F1_0.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            660,
+            237,
+            808,
+            324
+        ]
+    },
+    {
+        "file_name": "check_007_003_F1_0.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            718,
+            262,
+            899,
+            368
+        ]
+    },
+    {
+        "file_name": "check_010_003_F1_0.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1896,
+            553,
+            2250,
+            760
+        ]
+    },
+    {
+        "file_name": "check_005_003_F1_1.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1130,
+            564,
+            1427,
+            743
+        ]
+    },
+    {
+        "file_name": "check_008_003_F1_1.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1477,
+            600,
+            1774,
+            779
+        ]
+    },
+    {
+        "file_name": "check_006_003_F1_1.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            686,
+            260,
+            863,
+            367
+        ]
+    },
+    {
+        "file_name": "check_001_003_F1_1.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            415,
+            1821,
+            585
+        ]
+    },
+    {
+        "file_name": "check_004_003_F1_1.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            658,
+            239,
+            798,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_003_F1_2.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            879,
+            493,
+            1274,
+            680
+        ]
+    },
+    {
+        "file_name": "check_007_003_F1_2.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            681,
+            262,
+            904,
+            368
+        ]
+    },
+    {
+        "file_name": "check_008_003_F1_2.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1482,
+            599,
+            1860,
+            779
+        ]
+    },
+    {
+        "file_name": "check_003_003_F1_2.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            634,
+            237,
+            817,
+            324
+        ]
+    },
+    {
+        "file_name": "check_009_003_F1_2.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2255,
+            856,
+            2901,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_010_003_F1_3.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1866,
+            553,
+            2248,
+            760
+        ]
+    },
+    {
+        "file_name": "check_007_003_F1_3.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            722,
+            262,
+            917,
+            368
+        ]
+    },
+    {
+        "file_name": "check_006_003_F1_3.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            710,
+            260,
+            907,
+            367
+        ]
+    },
+    {
+        "file_name": "check_002_003_F1_3.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            966,
+            493,
+            1313,
+            681
+        ]
+    },
+    {
+        "file_name": "check_004_003_F1_3.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            701,
+            239,
+            858,
+            324
+        ]
+    },
+    {
+        "file_name": "check_007_003_F1_4.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            718,
+            262,
+            884,
+            368
+        ]
+    },
+    {
+        "file_name": "check_006_003_F1_4.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            694,
+            260,
+            861,
+            367
+        ]
+    },
+    {
+        "file_name": "check_008_003_F1_4.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1574,
+            599,
+            1855,
+            779
+        ]
+    },
+    {
+        "file_name": "check_001_003_F1_4.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            410,
+            1819,
+            589
+        ]
+    },
+    {
+        "file_name": "check_005_003_F1_4.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1227,
+            563,
+            1508,
+            743
+        ]
+    },
+    {
+        "file_name": "check_004_003_F1_5.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            656,
+            239,
+            829,
+            324
+        ]
+    },
+    {
+        "file_name": "check_010_003_F1_5.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1855,
+            553,
+            2276,
+            760
+        ]
+    },
+    {
+        "file_name": "check_009_003_F1_5.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2255,
+            856,
+            2879,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_002_003_F1_5.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1033,
+            493,
+            1415,
+            681
+        ]
+    },
+    {
+        "file_name": "check_007_003_F1_5.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            702,
+            262,
+            917,
+            368
+        ]
+    },
+    {
+        "file_name": "check_008_003_F1_6.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1442,
+            599,
+            1919,
+            779
+        ]
+    },
+    {
+        "file_name": "check_005_003_F1_6.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1121,
+            583,
+            1542,
+            741
+        ]
+    },
+    {
+        "file_name": "check_009_003_F1_6.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2236,
+            866,
+            2925,
+            1125
+        ]
+    },
+    {
+        "file_name": "check_010_003_F1_6.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1853,
+            585,
+            2277,
+            744
+        ]
+    },
+    {
+        "file_name": "check_006_003_F1_6.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            667,
+            266,
+            920,
+            361
+        ]
+    },
+    {
+        "file_name": "check_006_003_F1_7.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            708,
+            260,
+            904,
+            367
+        ]
+    },
+    {
+        "file_name": "check_003_003_F1_7.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            702,
+            237,
+            861,
+            324
+        ]
+    },
+    {
+        "file_name": "check_001_003_F1_7.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            429,
+            1821,
+            582
+        ]
+    },
+    {
+        "file_name": "check_005_003_F1_7.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1123,
+            563,
+            1453,
+            743
+        ]
+    },
+    {
+        "file_name": "check_008_003_F1_7.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1524,
+            599,
+            1854,
+            779
+        ]
+    },
+    {
+        "file_name": "check_008_005_F1_0.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1600,
+            599,
+            1804,
+            779
+        ]
+    },
+    {
+        "file_name": "check_004_005_F1_0.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            728,
+            239,
+            824,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_005_F1_0.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            810,
+            493,
+            1023,
+            681
+        ]
+    },
+    {
+        "file_name": "check_010_005_F1_0.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1923,
+            553,
+            2158,
+            760
+        ]
+    },
+    {
+        "file_name": "check_001_005_F1_0.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1548,
+            410,
+            1751,
+            589
+        ]
+    },
+    {
+        "file_name": "check_006_005_F1_1.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            762,
+            260,
+            904,
+            367
+        ]
+    },
+    {
+        "file_name": "check_004_005_F1_1.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            667,
+            239,
+            780,
+            324
+        ]
+    },
+    {
+        "file_name": "check_003_005_F1_1.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            678,
+            237,
+            793,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_005_F1_1.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            815,
+            493,
+            1065,
+            681
+        ]
+    },
+    {
+        "file_name": "check_009_005_F1_1.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2419,
+            856,
+            2827,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_009_005_F1_2.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2414,
+            856,
+            2840,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_007_005_F1_2.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            779,
+            262,
+            926,
+            367
+        ]
+    },
+    {
+        "file_name": "check_002_005_F1_2.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1036,
+            493,
+            1297,
+            681
+        ]
+    },
+    {
+        "file_name": "check_001_005_F1_2.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1572,
+            410,
+            1820,
+            589
+        ]
+    },
+    {
+        "file_name": "check_005_005_F1_2.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1250,
+            563,
+            1499,
+            743
+        ]
+    },
+    {
+        "file_name": "check_007_005_F1_3.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            754,
+            262,
+            863,
+            368
+        ]
+    },
+    {
+        "file_name": "check_006_005_F1_3.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            693,
+            260,
+            803,
+            367
+        ]
+    },
+    {
+        "file_name": "check_004_005_F1_3.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            786,
+            239,
+            873,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_005_F1_3.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1183,
+            563,
+            1369,
+            743
+        ]
+    },
+    {
+        "file_name": "check_002_005_F1_3.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1066,
+            493,
+            1260,
+            681
+        ]
+    },
+    {
+        "file_name": "check_002_005_F1_4.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1068,
+            493,
+            1295,
+            681
+        ]
+    },
+    {
+        "file_name": "check_006_005_F1_4.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            728,
+            260,
+            857,
+            367
+        ]
+    },
+    {
+        "file_name": "check_009_005_F1_4.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2411,
+            856,
+            2781,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_007_005_F1_4.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            741,
+            262,
+            869,
+            368
+        ]
+    },
+    {
+        "file_name": "check_010_005_F1_4.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1957,
+            553,
+            2207,
+            760
+        ]
+    },
+    {
+        "file_name": "check_001_005_F1_5.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1569,
+            410,
+            1821,
+            589
+        ]
+    },
+    {
+        "file_name": "check_002_005_F1_5.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            942,
+            493,
+            1207,
+            681
+        ]
+    },
+    {
+        "file_name": "check_005_005_F1_5.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1262,
+            563,
+            1515,
+            743
+        ]
+    },
+    {
+        "file_name": "check_004_005_F1_5.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            761,
+            239,
+            880,
+            324
+        ]
+    },
+    {
+        "file_name": "check_008_005_F1_5.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1522,
+            599,
+            1775,
+            779
+        ]
+    },
+    {
+        "file_name": "check_005_005_F1_6.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1166,
+            563,
+            1377,
+            743
+        ]
+    },
+    {
+        "file_name": "check_002_005_F1_6.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1074,
+            493,
+            1294,
+            681
+        ]
+    },
+    {
+        "file_name": "check_003_005_F1_6.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            735,
+            237,
+            837,
+            324
+        ]
+    },
+    {
+        "file_name": "check_009_005_F1_6.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2312,
+            856,
+            2671,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_001_005_F1_6.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1563,
+            410,
+            1772,
+            589
+        ]
+    },
+    {
+        "file_name": "check_002_005_F1_7.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1162,
+            493,
+            1399,
+            681
+        ]
+    },
+    {
+        "file_name": "check_008_005_F1_7.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1517,
+            599,
+            1744,
+            779
+        ]
+    },
+    {
+        "file_name": "check_001_005_F1_7.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1568,
+            410,
+            1794,
+            589
+        ]
+    },
+    {
+        "file_name": "check_007_005_F1_7.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            769,
+            262,
+            902,
+            368
+        ]
+    },
+    {
+        "file_name": "check_009_005_F1_7.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2486,
+            856,
+            2873,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_006_006_F1_0.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            695,
+            260,
+            803,
+            367
+        ]
+    },
+    {
+        "file_name": "check_004_006_F1_0.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            686,
+            239,
+            772,
+            324
+        ]
+    },
+    {
+        "file_name": "check_010_006_F1_0.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            2009,
+            553,
+            2218,
+            760
+        ]
+    },
+    {
+        "file_name": "check_005_006_F1_0.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1279,
+            563,
+            1461,
+            743
+        ]
+    },
+    {
+        "file_name": "check_009_006_F1_0.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2287,
+            856,
+            2597,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_010_006_F1_1.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1989,
+            553,
+            2211,
+            760
+        ]
+    },
+    {
+        "file_name": "check_008_006_F1_1.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1450,
+            599,
+            1643,
+            779
+        ]
+    },
+    {
+        "file_name": "check_007_006_F1_1.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            728,
+            262,
+            841,
+            368
+        ]
+    },
+    {
+        "file_name": "check_006_006_F1_1.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            779,
+            260,
+            893,
+            367
+        ]
+    },
+    {
+        "file_name": "check_003_006_F1_1.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            786,
+            237,
+            879,
+            324
+        ]
+    },
+    {
+        "file_name": "check_004_006_F1_2.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            796,
+            239,
+            871,
+            324
+        ]
+    },
+    {
+        "file_name": "check_009_006_F1_2.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2493,
+            856,
+            2764,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_003_006_F1_2.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            773,
+            237,
+            849,
+            324
+        ]
+    },
+    {
+        "file_name": "check_010_006_F1_2.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1859,
+            553,
+            2042,
+            760
+        ]
+    },
+    {
+        "file_name": "check_005_006_F1_2.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1159,
+            563,
+            1318,
+            743
+        ]
+    },
+    {
+        "file_name": "check_010_006_F1_3.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1977,
+            553,
+            2146,
+            760
+        ]
+    },
+    {
+        "file_name": "check_002_006_F1_3.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1120,
+            493,
+            1273,
+            681
+        ]
+    },
+    {
+        "file_name": "check_001_006_F1_3.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1631,
+            410,
+            1777,
+            589
+        ]
+    },
+    {
+        "file_name": "check_003_006_F1_3.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            718,
+            237,
+            789,
+            324
+        ]
+    },
+    {
+        "file_name": "check_004_006_F1_3.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            803,
+            239,
+            872,
+            324
+        ]
+    },
+    {
+        "file_name": "check_008_006_F1_4.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1591,
+            599,
+            1729,
+            779
+        ]
+    },
+    {
+        "file_name": "check_005_006_F1_4.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1241,
+            563,
+            1379,
+            743
+        ]
+    },
+    {
+        "file_name": "check_009_006_F1_4.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2512,
+            856,
+            2747,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_006_006_F1_4.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            679,
+            260,
+            761,
+            367
+        ]
+    },
+    {
+        "file_name": "check_007_006_F1_4.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            768,
+            262,
+            849,
+            368
+        ]
+    },
+    {
+        "file_name": "check_001_006_F1_5.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1626,
+            410,
+            1768,
+            589
+        ]
+    },
+    {
+        "file_name": "check_009_006_F1_5.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2666,
+            856,
+            2910,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_005_006_F1_5.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1306,
+            563,
+            1449,
+            743
+        ]
+    },
+    {
+        "file_name": "check_010_006_F1_5.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            2088,
+            553,
+            2252,
+            760
+        ]
+    },
+    {
+        "file_name": "check_006_006_F1_5.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            696,
+            260,
+            781,
+            367
+        ]
+    },
+    {
+        "file_name": "check_006_006_F1_6.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            846,
+            260,
+            919,
+            367
+        ]
+    },
+    {
+        "file_name": "check_005_006_F1_6.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1256,
+            563,
+            1380,
+            743
+        ]
+    },
+    {
+        "file_name": "check_007_006_F1_6.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            722,
+            262,
+            795,
+            368
+        ]
+    },
+    {
+        "file_name": "check_010_006_F1_6.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1927,
+            553,
+            2069,
+            760
+        ]
+    },
+    {
+        "file_name": "check_002_006_F1_6.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1001,
+            493,
+            1130,
+            681
+        ]
+    },
+    {
+        "file_name": "check_009_006_F1_7.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2302,
+            856,
+            2547,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_004_006_F1_7.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            817,
+            239,
+            885,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_006_F1_7.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1012,
+            493,
+            1162,
+            681
+        ]
+    },
+    {
+        "file_name": "check_006_006_F1_7.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            699,
+            260,
+            784,
+            367
+        ]
+    },
+    {
+        "file_name": "check_003_006_F1_7.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            657,
+            237,
+            726,
+            324
+        ]
+    },
+    {
+        "file_name": "check_001_007_F1_0.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            410,
+            1821,
+            581
+        ]
+    },
+    {
+        "file_name": "check_009_007_F1_0.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2396,
+            856,
+            2899,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_005_007_F1_0.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1239,
+            563,
+            1534,
+            743
+        ]
+    },
+    {
+        "file_name": "check_002_007_F1_0.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1085,
+            493,
+            1393,
+            681
+        ]
+    },
+    {
+        "file_name": "check_006_007_F1_0.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            719,
+            260,
+            894,
+            367
+        ]
+    },
+    {
+        "file_name": "check_007_007_F1_1.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            719,
+            262,
+            856,
+            368
+        ]
+    },
+    {
+        "file_name": "check_009_007_F1_1.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2515,
+            856,
+            2913,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_010_007_F1_1.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1954,
+            553,
+            2222,
+            760
+        ]
+    },
+    {
+        "file_name": "check_002_007_F1_1.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1134,
+            493,
+            1377,
+            681
+        ]
+    },
+    {
+        "file_name": "check_008_007_F1_1.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1480,
+            599,
+            1713,
+            779
+        ]
+    },
+    {
+        "file_name": "check_007_007_F1_2.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            766,
+            262,
+            905,
+            368
+        ]
+    },
+    {
+        "file_name": "check_010_007_F1_2.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1920,
+            553,
+            2192,
+            760
+        ]
+    },
+    {
+        "file_name": "check_008_007_F1_2.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1564,
+            599,
+            1801,
+            779
+        ]
+    },
+    {
+        "file_name": "check_005_007_F1_2.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1303,
+            563,
+            1540,
+            743
+        ]
+    },
+    {
+        "file_name": "check_004_007_F1_2.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            684,
+            239,
+            795,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_007_F1_3.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1099,
+            493,
+            1432,
+            681
+        ]
+    },
+    {
+        "file_name": "check_010_007_F1_3.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1908,
+            553,
+            2274,
+            760
+        ]
+    },
+    {
+        "file_name": "check_001_007_F1_3.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            412,
+            1821,
+            571
+        ]
+    },
+    {
+        "file_name": "check_009_007_F1_3.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2268,
+            856,
+            2811,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_005_007_F1_3.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1195,
+            563,
+            1513,
+            743
+        ]
+    },
+    {
+        "file_name": "check_005_007_F1_4.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1147,
+            563,
+            1416,
+            743
+        ]
+    },
+    {
+        "file_name": "check_010_007_F1_4.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1930,
+            553,
+            2240,
+            760
+        ]
+    },
+    {
+        "file_name": "check_001_007_F1_4.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1548,
+            410,
+            1816,
+            589
+        ]
+    },
+    {
+        "file_name": "check_007_007_F1_4.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            711,
+            262,
+            869,
+            368
+        ]
+    },
+    {
+        "file_name": "check_002_007_F1_4.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1050,
+            493,
+            1331,
+            681
+        ]
+    },
+    {
+        "file_name": "check_006_007_F1_5.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            772,
+            260,
+            914,
+            367
+        ]
+    },
+    {
+        "file_name": "check_003_007_F1_5.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            636,
+            237,
+            751,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_007_F1_5.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1124,
+            563,
+            1363,
+            743
+        ]
+    },
+    {
+        "file_name": "check_009_007_F1_5.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2474,
+            856,
+            2882,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_007_007_F1_5.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            679,
+            262,
+            819,
+            368
+        ]
+    },
+    {
+        "file_name": "check_005_007_F1_6.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1155,
+            563,
+            1456,
+            743
+        ]
+    },
+    {
+        "file_name": "check_008_007_F1_6.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1537,
+            599,
+            1838,
+            779
+        ]
+    },
+    {
+        "file_name": "check_004_007_F1_6.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            651,
+            239,
+            793,
+            324
+        ]
+    },
+    {
+        "file_name": "check_001_007_F1_6.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            413,
+            1821,
+            581
+        ]
+    },
+    {
+        "file_name": "check_010_007_F1_6.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1855,
+            553,
+            2202,
+            760
+        ]
+    },
+    {
+        "file_name": "check_002_007_F1_7.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            852,
+            493,
+            1144,
+            681
+        ]
+    },
+    {
+        "file_name": "check_004_007_F1_7.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            671,
+            239,
+            803,
+            324
+        ]
+    },
+    {
+        "file_name": "check_007_007_F1_7.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            677,
+            262,
+            841,
+            368
+        ]
+    },
+    {
+        "file_name": "check_009_007_F1_7.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2421,
+            856,
+            2898,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_008_007_F1_7.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1538,
+            599,
+            1818,
+            779
+        ]
+    },
+    {
+        "file_name": "check_010_008_F1_0.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1955,
+            553,
+            2277,
+            760
+        ]
+    },
+    {
+        "file_name": "check_003_008_F1_0.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            699,
+            237,
+            834,
+            324
+        ]
+    },
+    {
+        "file_name": "check_006_008_F1_0.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            669,
+            260,
+            835,
+            367
+        ]
+    },
+    {
+        "file_name": "check_008_008_F1_0.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1560,
+            599,
+            1840,
+            779
+        ]
+    },
+    {
+        "file_name": "check_002_008_F1_0.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1077,
+            493,
+            1369,
+            681
+        ]
+    },
+    {
+        "file_name": "check_004_008_F1_1.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            674,
+            239,
+            834,
+            324
+        ]
+    },
+    {
+        "file_name": "check_001_008_F1_1.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            438,
+            1821,
+            586
+        ]
+    },
+    {
+        "file_name": "check_009_008_F1_1.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2297,
+            856,
+            2878,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_006_008_F1_1.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            695,
+            260,
+            897,
+            367
+        ]
+    },
+    {
+        "file_name": "check_002_008_F1_1.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1077,
+            493,
+            1432,
+            681
+        ]
+    },
+    {
+        "file_name": "check_002_008_F1_2.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            962,
+            493,
+            1359,
+            681
+        ]
+    },
+    {
+        "file_name": "check_010_008_F1_2.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1853,
+            556,
+            2277,
+            756
+        ]
+    },
+    {
+        "file_name": "check_007_008_F1_2.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            706,
+            262,
+            930,
+            368
+        ]
+    },
+    {
+        "file_name": "check_005_008_F1_2.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1162,
+            563,
+            1542,
+            743
+        ]
+    },
+    {
+        "file_name": "check_003_008_F1_2.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            660,
+            237,
+            843,
+            324
+        ]
+    },
+    {
+        "file_name": "check_007_008_F1_3.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            710,
+            262,
+            894,
+            368
+        ]
+    },
+    {
+        "file_name": "check_003_008_F1_3.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            725,
+            237,
+            876,
+            324
+        ]
+    },
+    {
+        "file_name": "check_008_008_F1_3.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1464,
+            599,
+            1776,
+            779
+        ]
+    },
+    {
+        "file_name": "check_001_008_F1_3.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            410,
+            1821,
+            572
+        ]
+    },
+    {
+        "file_name": "check_006_008_F1_3.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            702,
+            260,
+            887,
+            367
+        ]
+    },
+    {
+        "file_name": "check_003_008_F1_4.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            757,
+            237,
+            881,
+            324
+        ]
+    },
+    {
+        "file_name": "check_009_008_F1_4.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2385,
+            856,
+            2824,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_005_008_F1_4.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1246,
+            563,
+            1503,
+            743
+        ]
+    },
+    {
+        "file_name": "check_006_008_F1_4.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            686,
+            260,
+            839,
+            367
+        ]
+    },
+    {
+        "file_name": "check_007_008_F1_4.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            721,
+            263,
+            872,
+            368
+        ]
+    },
+    {
+        "file_name": "check_008_008_F1_5.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1461,
+            599,
+            1727,
+            779
+        ]
+    },
+    {
+        "file_name": "check_003_008_F1_5.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            675,
+            237,
+            803,
+            324
+        ]
+    },
+    {
+        "file_name": "check_010_008_F1_5.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1895,
+            553,
+            2201,
+            760
+        ]
+    },
+    {
+        "file_name": "check_005_008_F1_5.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1245,
+            563,
+            1511,
+            743
+        ]
+    },
+    {
+        "file_name": "check_004_008_F1_5.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            636,
+            239,
+            761,
+            324
+        ]
+    },
+    {
+        "file_name": "check_009_008_F1_6.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2314,
+            856,
+            2823,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_004_008_F1_6.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            679,
+            239,
+            820,
+            324
+        ]
+    },
+    {
+        "file_name": "check_003_008_F1_6.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            689,
+            237,
+            833,
+            324
+        ]
+    },
+    {
+        "file_name": "check_007_008_F1_6.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            751,
+            262,
+            927,
+            368
+        ]
+    },
+    {
+        "file_name": "check_002_008_F1_6.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1114,
+            493,
+            1426,
+            681
+        ]
+    },
+    {
+        "file_name": "check_009_008_F1_7.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2322,
+            856,
+            2843,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_002_008_F1_7.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            915,
+            493,
+            1234,
+            681
+        ]
+    },
+    {
+        "file_name": "check_007_008_F1_7.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            750,
+            262,
+            930,
+            368
+        ]
+    },
+    {
+        "file_name": "check_008_008_F1_7.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1508,
+            599,
+            1813,
+            779
+        ]
+    },
+    {
+        "file_name": "check_005_008_F1_7.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1176,
+            563,
+            1481,
+            743
+        ]
+    },
+    {
+        "file_name": "check_008_009_F1_0.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1634,
+            599,
+            1828,
+            779
+        ]
+    },
+    {
+        "file_name": "check_001_009_F1_0.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1562,
+            410,
+            1755,
+            589
+        ]
+    },
+    {
+        "file_name": "check_005_009_F1_0.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1288,
+            563,
+            1482,
+            743
+        ]
+    },
+    {
+        "file_name": "check_007_009_F1_0.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            723,
+            262,
+            837,
+            368
+        ]
+    },
+    {
+        "file_name": "check_010_009_F1_0.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1867,
+            553,
+            2090,
+            760
+        ]
+    },
+    {
+        "file_name": "check_002_009_F1_1.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1152,
+            493,
+            1448,
+            681
+        ]
+    },
+    {
+        "file_name": "check_004_009_F1_1.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            699,
+            239,
+            833,
+            324
+        ]
+    },
+    {
+        "file_name": "check_010_009_F1_1.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1951,
+            553,
+            2277,
+            760
+        ]
+    },
+    {
+        "file_name": "check_007_009_F1_1.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            731,
+            262,
+            898,
+            368
+        ]
+    },
+    {
+        "file_name": "check_005_009_F1_1.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1153,
+            563,
+            1437,
+            743
+        ]
+    },
+    {
+        "file_name": "check_010_009_F1_2.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1891,
+            553,
+            2195,
+            760
+        ]
+    },
+    {
+        "file_name": "check_005_009_F1_2.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1246,
+            563,
+            1511,
+            743
+        ]
+    },
+    {
+        "file_name": "check_004_009_F1_2.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            655,
+            239,
+            780,
+            324
+        ]
+    },
+    {
+        "file_name": "check_009_009_F1_2.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2249,
+            856,
+            2701,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_003_009_F1_2.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            648,
+            237,
+            776,
+            324
+        ]
+    },
+    {
+        "file_name": "check_003_009_F1_3.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            668,
+            237,
+            795,
+            324
+        ]
+    },
+    {
+        "file_name": "check_008_009_F1_3.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1653,
+            599,
+            1916,
+            779
+        ]
+    },
+    {
+        "file_name": "check_005_009_F1_3.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1188,
+            563,
+            1451,
+            743
+        ]
+    },
+    {
+        "file_name": "check_004_009_F1_3.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            653,
+            239,
+            777,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_009_F1_3.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            933,
+            493,
+            1207,
+            681
+        ]
+    },
+    {
+        "file_name": "check_002_009_F1_4.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1032,
+            493,
+            1295,
+            681
+        ]
+    },
+    {
+        "file_name": "check_009_009_F1_4.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2374,
+            856,
+            2804,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_006_009_F1_4.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            753,
+            260,
+            903,
+            366
+        ]
+    },
+    {
+        "file_name": "check_005_009_F1_4.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1218,
+            563,
+            1470,
+            743
+        ]
+    },
+    {
+        "file_name": "check_007_009_F1_4.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            697,
+            262,
+            845,
+            368
+        ]
+    },
+    {
+        "file_name": "check_004_009_F1_5.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            712,
+            239,
+            809,
+            324
+        ]
+    },
+    {
+        "file_name": "check_006_009_F1_5.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            682,
+            260,
+            804,
+            367
+        ]
+    },
+    {
+        "file_name": "check_005_009_F1_5.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1207,
+            563,
+            1413,
+            743
+        ]
+    },
+    {
+        "file_name": "check_010_009_F1_5.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1921,
+            553,
+            2158,
+            760
+        ]
+    },
+    {
+        "file_name": "check_001_009_F1_5.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1594,
+            410,
+            1799,
+            589
+        ]
+    },
+    {
+        "file_name": "check_008_009_F1_6.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1614,
+            599,
+            1770,
+            779
+        ]
+    },
+    {
+        "file_name": "check_001_009_F1_6.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1584,
+            410,
+            1739,
+            589
+        ]
+    },
+    {
+        "file_name": "check_002_009_F1_6.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1286,
+            493,
+            1449,
+            681
+        ]
+    },
+    {
+        "file_name": "check_003_009_F1_6.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            718,
+            237,
+            793,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_009_F1_6.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1366,
+            563,
+            1522,
+            743
+        ]
+    },
+    {
+        "file_name": "check_005_009_F1_7.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1142,
+            563,
+            1423,
+            743
+        ]
+    },
+    {
+        "file_name": "check_002_009_F1_7.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1085,
+            493,
+            1378,
+            681
+        ]
+    },
+    {
+        "file_name": "check_008_009_F1_7.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1446,
+            599,
+            1727,
+            779
+        ]
+    },
+    {
+        "file_name": "check_010_009_F1_7.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1921,
+            553,
+            2244,
+            760
+        ]
+    },
+    {
+        "file_name": "check_001_009_F1_7.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1541,
+            410,
+            1820,
+            589
+        ]
+    },
+    {
+        "file_name": "check_008_010_F1_0.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1703,
+            599,
+            1890,
+            779
+        ]
+    },
+    {
+        "file_name": "check_002_010_F1_0.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1090,
+            493,
+            1285,
+            681
+        ]
+    },
+    {
+        "file_name": "check_001_010_F1_0.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1608,
+            410,
+            1794,
+            589
+        ]
+    },
+    {
+        "file_name": "check_010_010_F1_0.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            2049,
+            553,
+            2264,
+            760
+        ]
+    },
+    {
+        "file_name": "check_005_010_F1_0.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1185,
+            563,
+            1372,
+            743
+        ]
+    },
+    {
+        "file_name": "check_008_010_F1_1.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1609,
+            599,
+            1806,
+            779
+        ]
+    },
+    {
+        "file_name": "check_003_010_F1_1.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            650,
+            237,
+            745,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_010_F1_1.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1209,
+            493,
+            1415,
+            681
+        ]
+    },
+    {
+        "file_name": "check_004_010_F1_1.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            726,
+            239,
+            819,
+            324
+        ]
+    },
+    {
+        "file_name": "check_006_010_F1_1.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            797,
+            260,
+            914,
+            367
+        ]
+    },
+    {
+        "file_name": "check_003_010_F1_2.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            767,
+            237,
+            853,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_010_F1_2.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1090,
+            493,
+            1277,
+            681
+        ]
+    },
+    {
+        "file_name": "check_009_010_F1_2.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2392,
+            856,
+            2697,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_004_010_F1_2.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            660,
+            239,
+            744,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_010_F1_2.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1267,
+            563,
+            1446,
+            743
+        ]
+    },
+    {
+        "file_name": "check_006_010_F1_3.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            687,
+            260,
+            794,
+            367
+        ]
+    },
+    {
+        "file_name": "check_002_010_F1_3.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1225,
+            493,
+            1414,
+            681
+        ]
+    },
+    {
+        "file_name": "check_010_010_F1_3.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            2017,
+            553,
+            2225,
+            760
+        ]
+    },
+    {
+        "file_name": "check_001_010_F1_3.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1554,
+            410,
+            1734,
+            589
+        ]
+    },
+    {
+        "file_name": "check_003_010_F1_3.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            729,
+            237,
+            816,
+            324
+        ]
+    },
+    {
+        "file_name": "check_004_010_F1_4.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            776,
+            239,
+            878,
+            324
+        ]
+    },
+    {
+        "file_name": "check_008_010_F1_4.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1483,
+            599,
+            1699,
+            779
+        ]
+    },
+    {
+        "file_name": "check_007_010_F1_4.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            707,
+            263,
+            834,
+            368
+        ]
+    },
+    {
+        "file_name": "check_006_010_F1_4.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            765,
+            260,
+            893,
+            367
+        ]
+    },
+    {
+        "file_name": "check_010_010_F1_4.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1992,
+            553,
+            2240,
+            760
+        ]
+    },
+    {
+        "file_name": "check_001_010_F1_5.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1557,
+            410,
+            1780,
+            589
+        ]
+    },
+    {
+        "file_name": "check_004_010_F1_5.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            702,
+            239,
+            808,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_010_F1_5.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            955,
+            493,
+            1189,
+            681
+        ]
+    },
+    {
+        "file_name": "check_010_010_F1_5.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1879,
+            553,
+            2137,
+            760
+        ]
+    },
+    {
+        "file_name": "check_003_010_F1_5.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            737,
+            237,
+            845,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_010_F1_6.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            904,
+            493,
+            1126,
+            681
+        ]
+    },
+    {
+        "file_name": "check_007_010_F1_6.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            717,
+            262,
+            842,
+            368
+        ]
+    },
+    {
+        "file_name": "check_009_010_F1_6.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2475,
+            856,
+            2838,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_008_010_F1_6.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1593,
+            599,
+            1806,
+            779
+        ]
+    },
+    {
+        "file_name": "check_005_010_F1_6.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1187,
+            563,
+            1400,
+            743
+        ]
+    },
+    {
+        "file_name": "check_010_010_F1_7.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1962,
+            553,
+            2177,
+            760
+        ]
+    },
+    {
+        "file_name": "check_004_010_F1_7.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            761,
+            239,
+            849,
+            324
+        ]
+    },
+    {
+        "file_name": "check_003_010_F1_7.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            753,
+            237,
+            843,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_010_F1_7.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1210,
+            563,
+            1397,
+            743
+        ]
+    },
+    {
+        "file_name": "check_008_010_F1_7.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1636,
+            599,
+            1823,
+            779
+        ]
+    },
+    {
+        "file_name": "check_002_011_F1_0.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            881,
+            493,
+            1191,
+            681
+        ]
+    },
+    {
+        "file_name": "check_003_011_F1_0.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            672,
+            237,
+            815,
+            324
+        ]
+    },
+    {
+        "file_name": "check_009_011_F1_0.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2360,
+            856,
+            2866,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_010_011_F1_0.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1914,
+            553,
+            2255,
+            760
+        ]
+    },
+    {
+        "file_name": "check_005_011_F1_0.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1237,
+            563,
+            1533,
+            743
+        ]
+    },
+    {
+        "file_name": "check_010_011_F1_1.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1867,
+            553,
+            2188,
+            760
+        ]
+    },
+    {
+        "file_name": "check_004_011_F1_1.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            729,
+            239,
+            861,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_011_F1_1.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1129,
+            563,
+            1408,
+            743
+        ]
+    },
+    {
+        "file_name": "check_002_011_F1_1.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            808,
+            493,
+            1100,
+            681
+        ]
+    },
+    {
+        "file_name": "check_009_011_F1_1.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2305,
+            856,
+            2781,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_002_011_F1_2.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1012,
+            493,
+            1299,
+            681
+        ]
+    },
+    {
+        "file_name": "check_010_011_F1_2.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1899,
+            553,
+            2215,
+            760
+        ]
+    },
+    {
+        "file_name": "check_001_011_F1_2.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1545,
+            410,
+            1818,
+            589
+        ]
+    },
+    {
+        "file_name": "check_003_011_F1_2.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            706,
+            237,
+            839,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_011_F1_2.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1196,
+            563,
+            1471,
+            743
+        ]
+    },
+    {
+        "file_name": "check_002_011_F1_3.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            924,
+            493,
+            1190,
+            681
+        ]
+    },
+    {
+        "file_name": "check_003_011_F1_3.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            696,
+            237,
+            819,
+            324
+        ]
+    },
+    {
+        "file_name": "check_001_011_F1_3.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1549,
+            410,
+            1803,
+            589
+        ]
+    },
+    {
+        "file_name": "check_006_011_F1_3.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            697,
+            260,
+            848,
+            367
+        ]
+    },
+    {
+        "file_name": "check_009_011_F1_3.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2356,
+            856,
+            2791,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_008_011_F1_4.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1653,
+            599,
+            1915,
+            778
+        ]
+    },
+    {
+        "file_name": "check_005_011_F1_4.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1198,
+            563,
+            1460,
+            742
+        ]
+    },
+    {
+        "file_name": "check_001_011_F1_4.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1543,
+            410,
+            1804,
+            589
+        ]
+    },
+    {
+        "file_name": "check_002_011_F1_4.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            994,
+            493,
+            1268,
+            681
+        ]
+    },
+    {
+        "file_name": "check_006_011_F1_4.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            754,
+            260,
+            910,
+            367
+        ]
+    },
+    {
+        "file_name": "check_005_011_F1_5.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1193,
+            563,
+            1460,
+            743
+        ]
+    },
+    {
+        "file_name": "check_010_011_F1_5.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1909,
+            553,
+            2216,
+            760
+        ]
+    },
+    {
+        "file_name": "check_003_011_F1_5.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            653,
+            237,
+            782,
+            324
+        ]
+    },
+    {
+        "file_name": "check_006_011_F1_5.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            693,
+            260,
+            851,
+            367
+        ]
+    },
+    {
+        "file_name": "check_009_011_F1_5.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2290,
+            856,
+            2745,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_003_011_F1_6.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            744,
+            237,
+            886,
+            324
+        ]
+    },
+    {
+        "file_name": "check_001_011_F1_6.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            416,
+            1821,
+            587
+        ]
+    },
+    {
+        "file_name": "check_007_011_F1_6.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            680,
+            262,
+            853,
+            368
+        ]
+    },
+    {
+        "file_name": "check_009_011_F1_6.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2356,
+            856,
+            2859,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_004_011_F1_6.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            745,
+            239,
+            884,
+            324
+        ]
+    },
+    {
+        "file_name": "check_010_011_F1_7.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1895,
+            553,
+            2166,
+            760
+        ]
+    },
+    {
+        "file_name": "check_002_011_F1_7.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            975,
+            493,
+            1221,
+            681
+        ]
+    },
+    {
+        "file_name": "check_004_011_F1_7.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            752,
+            239,
+            863,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_011_F1_7.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1273,
+            563,
+            1508,
+            743
+        ]
+    },
+    {
+        "file_name": "check_003_011_F1_7.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            694,
+            237,
+            807,
+            324
+        ]
+    },
+    {
+        "file_name": "check_009_012_F1_0.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2519,
+            856,
+            2833,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_003_012_F1_0.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            697,
+            237,
+            786,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_012_F1_0.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1341,
+            563,
+            1525,
+            743
+        ]
+    },
+    {
+        "file_name": "check_001_012_F1_0.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1543,
+            410,
+            1726,
+            589
+        ]
+    },
+    {
+        "file_name": "check_007_012_F1_0.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            684,
+            262,
+            792,
+            368
+        ]
+    },
+    {
+        "file_name": "check_004_012_F1_1.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            700,
+            239,
+            772,
+            324
+        ]
+    },
+    {
+        "file_name": "check_010_012_F1_1.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1891,
+            553,
+            2068,
+            760
+        ]
+    },
+    {
+        "file_name": "check_009_012_F1_1.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2449,
+            856,
+            2712,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_003_012_F1_1.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            716,
+            237,
+            790,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_012_F1_1.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            982,
+            493,
+            1143,
+            681
+        ]
+    },
+    {
+        "file_name": "check_007_012_F1_2.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            693,
+            262,
+            784,
+            368
+        ]
+    },
+    {
+        "file_name": "check_004_012_F1_2.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            689,
+            239,
+            762,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_012_F1_2.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1203,
+            563,
+            1358,
+            743
+        ]
+    },
+    {
+        "file_name": "check_003_012_F1_2.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            779,
+            237,
+            854,
+            324
+        ]
+    },
+    {
+        "file_name": "check_009_012_F1_2.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2584,
+            856,
+            2848,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_005_012_F1_3.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1267,
+            563,
+            1457,
+            743
+        ]
+    },
+    {
+        "file_name": "check_004_012_F1_3.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            689,
+            239,
+            779,
+            324
+        ]
+    },
+    {
+        "file_name": "check_001_012_F1_3.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1587,
+            410,
+            1776,
+            589
+        ]
+    },
+    {
+        "file_name": "check_008_012_F1_3.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1527,
+            599,
+            1717,
+            779
+        ]
+    },
+    {
+        "file_name": "check_003_012_F1_3.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            637,
+            237,
+            729,
+            324
+        ]
+    },
+    {
+        "file_name": "check_001_012_F1_4.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1627,
+            410,
+            1813,
+            589
+        ]
+    },
+    {
+        "file_name": "check_004_012_F1_4.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            638,
+            239,
+            726,
+            324
+        ]
+    },
+    {
+        "file_name": "check_006_012_F1_4.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            775,
+            260,
+            886,
+            367
+        ]
+    },
+    {
+        "file_name": "check_007_012_F1_4.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            793,
+            262,
+            903,
+            368
+        ]
+    },
+    {
+        "file_name": "check_002_012_F1_4.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1165,
+            493,
+            1361,
+            681
+        ]
+    },
+    {
+        "file_name": "check_007_012_F1_5.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            767,
+            262,
+            877,
+            368
+        ]
+    },
+    {
+        "file_name": "check_002_012_F1_5.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1100,
+            493,
+            1295,
+            681
+        ]
+    },
+    {
+        "file_name": "check_006_012_F1_5.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            770,
+            260,
+            881,
+            367
+        ]
+    },
+    {
+        "file_name": "check_005_012_F1_5.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1167,
+            563,
+            1354,
+            743
+        ]
+    },
+    {
+        "file_name": "check_010_012_F1_5.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1891,
+            553,
+            2106,
+            760
+        ]
+    },
+    {
+        "file_name": "check_004_012_F1_6.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            710,
+            239,
+            797,
+            324
+        ]
+    },
+    {
+        "file_name": "check_007_012_F1_6.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            762,
+            262,
+            870,
+            368
+        ]
+    },
+    {
+        "file_name": "check_001_012_F1_6.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1593,
+            410,
+            1776,
+            589
+        ]
+    },
+    {
+        "file_name": "check_002_012_F1_6.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1122,
+            493,
+            1314,
+            681
+        ]
+    },
+    {
+        "file_name": "check_003_012_F1_6.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            642,
+            237,
+            731,
+            324
+        ]
+    },
+    {
+        "file_name": "check_009_012_F1_7.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2399,
+            856,
+            2727,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_005_012_F1_7.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1124,
+            563,
+            1316,
+            743
+        ]
+    },
+    {
+        "file_name": "check_008_012_F1_7.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1501,
+            599,
+            1693,
+            779
+        ]
+    },
+    {
+        "file_name": "check_010_012_F1_7.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            2036,
+            553,
+            2257,
+            760
+        ]
+    },
+    {
+        "file_name": "check_002_012_F1_7.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            979,
+            493,
+            1179,
+            681
+        ]
+    },
+    {
+        "file_name": "check_004_013_F1_0.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            668,
+            239,
+            777,
+            324
+        ]
+    },
+    {
+        "file_name": "check_007_013_F1_0.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            723,
+            262,
+            860,
+            368
+        ]
+    },
+    {
+        "file_name": "check_008_013_F1_0.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1466,
+            599,
+            1698,
+            779
+        ]
+    },
+    {
+        "file_name": "check_001_013_F1_0.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1564,
+            411,
+            1795,
+            589
+        ]
+    },
+    {
+        "file_name": "check_010_013_F1_0.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1906,
+            553,
+            2173,
+            760
+        ]
+    },
+    {
+        "file_name": "check_002_013_F1_1.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1034,
+            493,
+            1288,
+            681
+        ]
+    },
+    {
+        "file_name": "check_003_013_F1_1.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            765,
+            237,
+            882,
+            324
+        ]
+    },
+    {
+        "file_name": "check_006_013_F1_1.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            759,
+            260,
+            903,
+            367
+        ]
+    },
+    {
+        "file_name": "check_010_013_F1_1.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1882,
+            553,
+            2162,
+            760
+        ]
+    },
+    {
+        "file_name": "check_009_013_F1_1.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2490,
+            856,
+            2905,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_001_013_F1_2.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1540,
+            410,
+            1729,
+            589
+        ]
+    },
+    {
+        "file_name": "check_007_013_F1_2.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            794,
+            262,
+            906,
+            368
+        ]
+    },
+    {
+        "file_name": "check_008_013_F1_2.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1563,
+            599,
+            1753,
+            779
+        ]
+    },
+    {
+        "file_name": "check_005_013_F1_2.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1219,
+            563,
+            1409,
+            743
+        ]
+    },
+    {
+        "file_name": "check_002_013_F1_2.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1099,
+            493,
+            1297,
+            681
+        ]
+    },
+    {
+        "file_name": "check_004_013_F1_3.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            758,
+            239,
+            854,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_013_F1_3.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1144,
+            563,
+            1349,
+            743
+        ]
+    },
+    {
+        "file_name": "check_010_013_F1_3.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1975,
+            553,
+            2211,
+            760
+        ]
+    },
+    {
+        "file_name": "check_006_013_F1_3.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            670,
+            260,
+            792,
+            367
+        ]
+    },
+    {
+        "file_name": "check_001_013_F1_3.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1598,
+            410,
+            1802,
+            589
+        ]
+    },
+    {
+        "file_name": "check_010_013_F1_4.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            2009,
+            553,
+            2251,
+            760
+        ]
+    },
+    {
+        "file_name": "check_001_013_F1_4.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1565,
+            410,
+            1774,
+            589
+        ]
+    },
+    {
+        "file_name": "check_003_013_F1_4.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            785,
+            237,
+            886,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_013_F1_4.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1212,
+            493,
+            1431,
+            681
+        ]
+    },
+    {
+        "file_name": "check_009_013_F1_4.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2319,
+            856,
+            2677,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_007_013_F1_5.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            719,
+            262,
+            843,
+            368
+        ]
+    },
+    {
+        "file_name": "check_001_013_F1_5.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1574,
+            410,
+            1784,
+            589
+        ]
+    },
+    {
+        "file_name": "check_005_013_F1_5.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1327,
+            563,
+            1538,
+            743
+        ]
+    },
+    {
+        "file_name": "check_006_013_F1_5.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            724,
+            260,
+            849,
+            367
+        ]
+    },
+    {
+        "file_name": "check_004_013_F1_5.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            712,
+            239,
+            811,
+            324
+        ]
+    },
+    {
+        "file_name": "check_008_013_F1_6.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1453,
+            599,
+            1684,
+            779
+        ]
+    },
+    {
+        "file_name": "check_005_013_F1_6.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1228,
+            563,
+            1459,
+            743
+        ]
+    },
+    {
+        "file_name": "check_004_013_F1_6.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            743,
+            239,
+            852,
+            324
+        ]
+    },
+    {
+        "file_name": "check_001_013_F1_6.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1547,
+            410,
+            1776,
+            589
+        ]
+    },
+    {
+        "file_name": "check_002_013_F1_6.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            1029,
+            493,
+            1270,
+            681
+        ]
+    },
+    {
+        "file_name": "check_007_013_F1_7.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            707,
+            262,
+            844,
+            368
+        ]
+    },
+    {
+        "file_name": "check_001_013_F1_7.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1555,
+            410,
+            1787,
+            589
+        ]
+    },
+    {
+        "file_name": "check_009_013_F1_7.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2426,
+            856,
+            2824,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_006_013_F1_7.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            752,
+            260,
+            891,
+            367
+        ]
+    },
+    {
+        "file_name": "check_003_013_F1_7.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            649,
+            237,
+            762,
+            324
+        ]
+    },
+    {
+        "file_name": "check_005_014_F1_0.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1210,
+            563,
+            1536,
+            743
+        ]
+    },
+    {
+        "file_name": "check_008_014_F1_0.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1473,
+            599,
+            1799,
+            779
+        ]
+    },
+    {
+        "file_name": "check_007_014_F1_0.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            720,
+            262,
+            912,
+            368
+        ]
+    },
+    {
+        "file_name": "check_010_014_F1_0.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1876,
+            553,
+            2251,
+            760
+        ]
+    },
+    {
+        "file_name": "check_003_014_F1_0.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            656,
+            237,
+            813,
+            324
+        ]
+    },
+    {
+        "file_name": "check_006_014_F1_1.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            667,
+            265,
+            920,
+            360
+        ]
+    },
+    {
+        "file_name": "check_005_014_F1_1.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1121,
+            582,
+            1542,
+            740
+        ]
+    },
+    {
+        "file_name": "check_001_014_F1_1.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            425,
+            1821,
+            531
+        ]
+    },
+    {
+        "file_name": "check_007_014_F1_1.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            674,
+            267,
+            934,
+            365
+        ]
+    },
+    {
+        "file_name": "check_002_014_F1_1.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            811,
+            493,
+            1309,
+            681
+        ]
+    },
+    {
+        "file_name": "check_004_014_F1_2.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            634,
+            239,
+            837,
+            324
+        ]
+    },
+    {
+        "file_name": "check_010_014_F1_2.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1853,
+            572,
+            2277,
+            749
+        ]
+    },
+    {
+        "file_name": "check_002_014_F1_2.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            827,
+            493,
+            1277,
+            681
+        ]
+    },
+    {
+        "file_name": "check_001_014_F1_2.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            455,
+            1821,
+            572
+        ]
+    },
+    {
+        "file_name": "check_008_014_F1_2.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1477,
+            599,
+            1907,
+            779
+        ]
+    },
+    {
+        "file_name": "check_009_014_F1_3.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2236,
+            866,
+            2925,
+            1141
+        ]
+    },
+    {
+        "file_name": "check_002_014_F1_3.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            896,
+            493,
+            1366,
+            681
+        ]
+    },
+    {
+        "file_name": "check_010_014_F1_3.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1853,
+            561,
+            2277,
+            730
+        ]
+    },
+    {
+        "file_name": "check_005_014_F1_3.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1121,
+            574,
+            1542,
+            742
+        ]
+    },
+    {
+        "file_name": "check_006_014_F1_3.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            667,
+            260,
+            920,
+            361
+        ]
+    },
+    {
+        "file_name": "check_002_014_F1_4.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            980,
+            493,
+            1390,
+            681
+        ]
+    },
+    {
+        "file_name": "check_001_014_F1_4.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            423,
+            1821,
+            552
+        ]
+    },
+    {
+        "file_name": "check_010_014_F1_4.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1853,
+            566,
+            2277,
+            760
+        ]
+    },
+    {
+        "file_name": "check_006_014_F1_4.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            679,
+            260,
+            912,
+            367
+        ]
+    },
+    {
+        "file_name": "check_008_014_F1_4.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1477,
+            599,
+            1870,
+            779
+        ]
+    },
+    {
+        "file_name": "check_006_014_F1_5.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            700,
+            260,
+            874,
+            367
+        ]
+    },
+    {
+        "file_name": "check_009_014_F1_5.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2377,
+            856,
+            2877,
+            1163
+        ]
+    },
+    {
+        "file_name": "check_010_014_F1_5.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1865,
+            553,
+            2202,
+            759
+        ]
+    },
+    {
+        "file_name": "check_005_014_F1_5.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1210,
+            563,
+            1503,
+            743
+        ]
+    },
+    {
+        "file_name": "check_003_014_F1_5.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            688,
+            237,
+            829,
+            324
+        ]
+    },
+    {
+        "file_name": "check_003_014_F1_6.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            646,
+            237,
+            859,
+            324
+        ]
+    },
+    {
+        "file_name": "check_006_014_F1_6.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            667,
+            260,
+            920,
+            363
+        ]
+    },
+    {
+        "file_name": "check_005_014_F1_6.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1121,
+            569,
+            1542,
+            740
+        ]
+    },
+    {
+        "file_name": "check_004_014_F1_6.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            664,
+            239,
+            872,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_014_F1_6.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            950,
+            493,
+            1411,
+            681
+        ]
+    },
+    {
+        "file_name": "check_005_014_F1_7.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1130,
+            563,
+            1541,
+            743
+        ]
+    },
+    {
+        "file_name": "check_008_014_F1_7.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1445,
+            599,
+            1856,
+            779
+        ]
+    },
+    {
+        "file_name": "check_007_014_F1_7.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            684,
+            262,
+            926,
+            368
+        ]
+    },
+    {
+        "file_name": "check_001_014_F1_7.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            439,
+            1821,
+            562
+        ]
+    },
+    {
+        "file_name": "check_006_014_F1_7.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            675,
+            260,
+            919,
+            367
+        ]
+    },
+    {
+        "file_name": "check_003_015_F1_0.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            633,
+            237,
+            886,
+            323
+        ]
+    },
+    {
+        "file_name": "check_002_015_F1_0.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            806,
+            493,
+            1353,
+            681
+        ]
+    },
+    {
+        "file_name": "check_010_015_F1_0.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1853,
+            557,
+            2277,
+            702
+        ]
+    },
+    {
+        "file_name": "check_005_015_F1_0.jpg",
+        "width": 1787,
+        "height": 871,
+        "bbox": [
+            1121,
+            589,
+            1542,
+            733
+        ]
+    },
+    {
+        "file_name": "check_006_015_F1_0.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            667,
+            270,
+            920,
+            356
+        ]
+    },
+    {
+        "file_name": "check_003_015_F1_1.jpg",
+        "width": 939,
+        "height": 454,
+        "bbox": [
+            640,
+            237,
+            873,
+            324
+        ]
+    },
+    {
+        "file_name": "check_007_015_F1_1.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            674,
+            269,
+            934,
+            365
+        ]
+    },
+    {
+        "file_name": "check_001_015_F1_1.jpg",
+        "width": 1920,
+        "height": 800,
+        "bbox": [
+            1539,
+            452,
+            1821,
+            557
+        ]
+    },
+    {
+        "file_name": "check_008_015_F1_1.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1441,
+            599,
+            1923,
+            779
+        ]
+    },
+    {
+        "file_name": "check_004_015_F1_1.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            633,
+            239,
+            860,
+            324
+        ]
+    },
+    {
+        "file_name": "check_010_015_F1_2.jpg",
+        "width": 2445,
+        "height": 1003,
+        "bbox": [
+            1856,
+            553,
+            2239,
+            760
+        ]
+    },
+    {
+        "file_name": "check_004_015_F1_2.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            706,
+            239,
+            863,
+            324
+        ]
+    },
+    {
+        "file_name": "check_002_015_F1_2.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            918,
+            493,
+            1266,
+            681
+        ]
+    },
+    {
+        "file_name": "check_006_015_F1_2.jpg",
+        "width": 1053,
+        "height": 433,
+        "bbox": [
+            689,
+            261,
+            887,
+            367
+        ]
+    },
+    {
+        "file_name": "check_008_015_F1_2.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1475,
+            599,
+            1808,
+            779
+        ]
+    },
+    {
+        "file_name": "check_007_015_F1_3.jpg",
+        "width": 1051,
+        "height": 435,
+        "bbox": [
+            674,
+            267,
+            934,
+            361
+        ]
+    },
+    {
+        "file_name": "check_009_015_F1_3.jpg",
+        "width": 3053,
+        "height": 1375,
+        "bbox": [
+            2236,
+            903,
+            2925,
+            1154
+        ]
+    },
+    {
+        "file_name": "check_008_015_F1_3.jpg",
+        "width": 2007,
+        "height": 877,
+        "bbox": [
+            1439,
+            603,
+            1923,
+            779
+        ]
+    },
+    {
+        "file_name": "check_002_015_F1_3.jpg",
+        "width": 1848,
+        "height": 780,
+        "bbox": [
+            893,
+            493,
+            1408,
+            681
+        ]
+    },
+    {
+        "file_name": "check_004_015_F1_3.jpg",
+        "width": 938,
+        "height": 455,
+        "bbox": [
+            636,
+            239,
+            869,
+            324
+        ]
+    },
+    {
+        "file_name": "001_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1497.34,
+            496.32,
+            1787.6799999999998,
+            810.01
+        ]
+    },
+    {
+        "file_name": "001_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            550.45,
+            1241.87,
+            839.33,
+            1508.86
+        ]
+    },
+    {
+        "file_name": "001_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            564.91,
+            501.01,
+            811.78,
+            776.9200000000001
+        ]
+    },
+    {
+        "file_name": "001_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1568.83,
+            1244.78,
+            1848.9499999999998,
+            1514.7
+        ]
+    },
+    {
+        "file_name": "001_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            566.5,
+            1952.4,
+            836.4100000000001,
+            2226.69
+        ]
+    },
+    {
+        "file_name": "001_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1548.4,
+            1980.12,
+            1843.1200000000001,
+            2252.95
+        ]
+    },
+    {
+        "file_name": "001_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            591.3,
+            2664.38,
+            842.25,
+            2975.15
+        ]
+    },
+    {
+        "file_name": "001_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1536.73,
+            2712.53,
+            1898.56,
+            2956.1800000000003
+        ]
+    },
+    {
+        "file_name": "003_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1346.97,
+            1867.83,
+            1898.47,
+            2189.98
+        ]
+    },
+    {
+        "file_name": "003_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1310.2,
+            2571.65,
+            1891.47,
+            2923.56
+        ]
+    },
+    {
+        "file_name": "003_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            354.27,
+            1880.09,
+            1019.5699999999999,
+            2196.98
+        ]
+    },
+    {
+        "file_name": "003_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1310.2,
+            1169.27,
+            1905.47,
+            1491.4099999999999
+        ]
+    },
+    {
+        "file_name": "003_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            349.02,
+            1146.51,
+            891.77,
+            1493.1599999999999
+        ]
+    },
+    {
+        "file_name": "003_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1313.71,
+            519.72,
+            1833.69,
+            775.34
+        ]
+    },
+    {
+        "file_name": "003_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            373.53,
+            552.99,
+            914.53,
+            757.83
+        ]
+    },
+    {
+        "file_name": "003_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            397.26,
+            2620.61,
+            897.69,
+            2893.44
+        ]
+    },
+    {
+        "file_name": "005_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            465.26,
+            2595.84,
+            773.73,
+            2867.17
+        ]
+    },
+    {
+        "file_name": "005_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1473.05,
+            1932.05,
+            1763.76,
+            2150.08
+        ]
+    },
+    {
+        "file_name": "005_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            465.26,
+            1878.75,
+            733.36,
+            2072.56
+        ]
+    },
+    {
+        "file_name": "005_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1443.98,
+            1239.19,
+            1716.92,
+            1502.45
+        ]
+    },
+    {
+        "file_name": "005_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            487.87,
+            1193.97,
+            818.95,
+            1468.53
+        ]
+    },
+    {
+        "file_name": "005_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1455.29,
+            518.88,
+            1723.3899999999999,
+            709.45
+        ]
+    },
+    {
+        "file_name": "005_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            436.19,
+            530.18,
+            743.05,
+            791.8199999999999
+        ]
+    },
+    {
+        "file_name": "005_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1411.68,
+            2611.99,
+            1781.5300000000002,
+            2904.31
+        ]
+    },
+    {
+        "file_name": "006_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            575.08,
+            2618.45,
+            990.1500000000001,
+            3028.67
+        ]
+    },
+    {
+        "file_name": "006_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            499.17,
+            501.11,
+            859.33,
+            837.04
+        ]
+    },
+    {
+        "file_name": "006_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1471.44,
+            509.19,
+            1792.83,
+            872.5699999999999
+        ]
+    },
+    {
+        "file_name": "006_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            575.08,
+            1240.81,
+            860.95,
+            1589.6599999999999
+        ]
+    },
+    {
+        "file_name": "006_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1516.66,
+            1158.44,
+            1847.74,
+            1589.66
+        ]
+    },
+    {
+        "file_name": "006_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1532.81,
+            1907.82,
+            1868.74,
+            2329.35
+        ]
+    },
+    {
+        "file_name": "006_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            591.23,
+            1860.99,
+            899.71,
+            2308.36
+        ]
+    },
+    {
+        "file_name": "006_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1586.11,
+            2631.37,
+            1892.9699999999998,
+            3014.14
+        ]
+    },
+    {
+        "file_name": "007_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1468.21,
+            1970.81,
+            1839.67,
+            2196.92
+        ]
+    },
+    {
+        "file_name": "007_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            470.1,
+            1996.65,
+            828.6400000000001,
+            2272.83
+        ]
+    },
+    {
+        "file_name": "007_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            466.87,
+            2645.9,
+            841.56,
+            2930.15
+        ]
+    },
+    {
+        "file_name": "007_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1427.83,
+            2573.23,
+            1862.28,
+            2818.7200000000003
+        ]
+    },
+    {
+        "file_name": "007_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1450.44,
+            1271.49,
+            1808.98,
+            1510.52
+        ]
+    },
+    {
+        "file_name": "007_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            562.16,
+            1268.26,
+            885.17,
+            1512.1399999999999
+        ]
+    },
+    {
+        "file_name": "007_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1506.97,
+            614.16,
+            1844.51,
+            816.05
+        ]
+    },
+    {
+        "file_name": "007_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            486.25,
+            538.26,
+            872.25,
+            786.98
+        ]
+    },
+    {
+        "file_name": "008_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            557.15,
+            1176.37,
+            828.48,
+            1350.79
+        ]
+    },
+    {
+        "file_name": "008_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1484.2,
+            1113.38,
+            1768.45,
+            1263.5800000000002
+        ]
+    },
+    {
+        "file_name": "008_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1539.11,
+            540.03,
+            1852.4299999999998,
+            688.62
+        ]
+    },
+    {
+        "file_name": "008_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            532.93,
+            459.28,
+            818.79,
+            624.02
+        ]
+    },
+    {
+        "file_name": "008_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1435.74,
+            1824.0,
+            1711.92,
+            2017.81
+        ]
+    },
+    {
+        "file_name": "008_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            529.7,
+            1865.99,
+            823.6400000000001,
+            2064.65
+        ]
+    },
+    {
+        "file_name": "008_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1464.81,
+            2618.61,
+            1729.6799999999998,
+            2778.5
+        ]
+    },
+    {
+        "file_name": "008_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            486.09,
+            2599.23,
+            763.88,
+            2762.35
+        ]
+    },
+    {
+        "file_name": "009_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            534.54,
+            1815.93,
+            805.8699999999999,
+            2067.88
+        ]
+    },
+    {
+        "file_name": "009_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1500.35,
+            2560.47,
+            1803.98,
+            2752.66
+        ]
+    },
+    {
+        "file_name": "009_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            510.32,
+            2636.38,
+            812.3299999999999,
+            2841.4900000000002
+        ]
+    },
+    {
+        "file_name": "009_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1526.19,
+            1875.68,
+            1795.9,
+            2059.8
+        ]
+    },
+    {
+        "file_name": "009_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1489.04,
+            1163.45,
+            1781.37,
+            1371.79
+        ]
+    },
+    {
+        "file_name": "009_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            473.17,
+            1126.3,
+            741.27,
+            1360.48
+        ]
+    },
+    {
+        "file_name": "009_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            550.69,
+            452.82,
+            741.2700000000001,
+            672.47
+        ]
+    },
+    {
+        "file_name": "009_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1459.97,
+            428.59,
+            1768.45,
+            625.63
+        ]
+    },
+    {
+        "file_name": "010_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            624.99,
+            580.41,
+            852.71,
+            798.4399999999999
+        ]
+    },
+    {
+        "file_name": "010_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1422.82,
+            570.72,
+            1660.24,
+            787.14
+        ]
+    },
+    {
+        "file_name": "010_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1435.74,
+            1242.58,
+            1627.94,
+            1436.3899999999999
+        ]
+    },
+    {
+        "file_name": "010_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            582.99,
+            1215.13,
+            801.03,
+            1431.5400000000002
+        ]
+    },
+    {
+        "file_name": "010_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1426.05,
+            1969.36,
+            1658.62,
+            2163.16
+        ]
+    },
+    {
+        "file_name": "010_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            586.22,
+            1937.06,
+            823.64,
+            2127.63
+        ]
+    },
+    {
+        "file_name": "010_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1434.13,
+            2589.54,
+            1652.16,
+            2773.66
+        ]
+    },
+    {
+        "file_name": "010_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            563.61,
+            2541.09,
+            786.49,
+            2754.28
+        ]
+    },
+    {
+        "file_name": "011_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1372.76,
+            2423.19,
+            1876.65,
+            2728.4300000000003
+        ]
+    },
+    {
+        "file_name": "011_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            545.85,
+            2439.34,
+            1009.37,
+            2738.12
+        ]
+    },
+    {
+        "file_name": "011_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            529.7,
+            1814.31,
+            1004.52,
+            2124.4
+        ]
+    },
+    {
+        "file_name": "011_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1405.06,
+            1804.62,
+            1865.35,
+            2129.25
+        ]
+    },
+    {
+        "file_name": "011_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1406.67,
+            1116.61,
+            1918.65,
+            1467.08
+        ]
+    },
+    {
+        "file_name": "011_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            516.78,
+            1160.22,
+            1014.21,
+            1496.15
+        ]
+    },
+    {
+        "file_name": "011_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1340.46,
+            420.52,
+            1802.3600000000001,
+            701.54
+        ]
+    },
+    {
+        "file_name": "011_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            457.02,
+            441.52,
+            854.3199999999999,
+            745.15
+        ]
+    },
+    {
+        "file_name": "012_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1459.97,
+            2531.4,
+            1786.21,
+            2849.56
+        ]
+    },
+    {
+        "file_name": "012_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            587.84,
+            2536.24,
+            854.32,
+            2846.33
+        ]
+    },
+    {
+        "file_name": "012_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            592.68,
+            1911.22,
+            864.01,
+            2226.15
+        ]
+    },
+    {
+        "file_name": "012_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1442.2,
+            1906.37,
+            1749.06,
+            2195.47
+        ]
+    },
+    {
+        "file_name": "012_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1448.66,
+            1211.9,
+            1737.7600000000002,
+            1489.69
+        ]
+    },
+    {
+        "file_name": "012_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            536.16,
+            1236.12,
+            830.0999999999999,
+            1518.7599999999998
+        ]
+    },
+    {
+        "file_name": "012_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            503.86,
+            554.57,
+            747.73,
+            791.98
+        ]
+    },
+    {
+        "file_name": "012_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1400.21,
+            494.81,
+            1665.08,
+            741.9200000000001
+        ]
+    },
+    {
+        "file_name": "013_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            604.48,
+            2531.14,
+            965.87,
+            2810.39
+        ]
+    },
+    {
+        "file_name": "013_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1476.73,
+            2483.5,
+            1847.96,
+            2757.82
+        ]
+    },
+    {
+        "file_name": "013_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            484.48,
+            481.89,
+            799.4100000000001,
+            779.06
+        ]
+    },
+    {
+        "file_name": "013_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1417.98,
+            520.65,
+            1742.6,
+            804.9
+        ]
+    },
+    {
+        "file_name": "013_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1406.67,
+            1168.29,
+            1773.29,
+            1481.61
+        ]
+    },
+    {
+        "file_name": "013_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            557.15,
+            1186.06,
+            909.24,
+            1486.46
+        ]
+    },
+    {
+        "file_name": "013_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            562.0,
+            1938.67,
+            906.01,
+            2206.77
+        ]
+    },
+    {
+        "file_name": "013_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1461.58,
+            1859.53,
+            1834.6599999999999,
+            2147.01
+        ]
+    },
+    {
+        "file_name": "014_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            543.71,
+            2522.9,
+            1061.1399999999999,
+            2808.7400000000002
+        ]
+    },
+    {
+        "file_name": "014_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1414.31,
+            2540.99,
+            1931.7399999999998,
+            2736.47
+        ]
+    },
+    {
+        "file_name": "014_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1383.1,
+            1886.56,
+            1893.96,
+            2100.11
+        ]
+    },
+    {
+        "file_name": "014_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            535.49,
+            1881.64,
+            1126.8400000000001,
+            2118.1800000000003
+        ]
+    },
+    {
+        "file_name": "014_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1391.31,
+            1257.43,
+            1841.3899999999999,
+            1464.41
+        ]
+    },
+    {
+        "file_name": "014_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            533.85,
+            1237.72,
+            1023.36,
+            1538.33
+        ]
+    },
+    {
+        "file_name": "014_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            509.21,
+            574.1,
+            1069.35,
+            802.4200000000001
+        ]
+    },
+    {
+        "file_name": "014_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1350.24,
+            582.31,
+            1938.31,
+            840.1999999999999
+        ]
+    },
+    {
+        "file_name": "015_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            511.81,
+            1949.4,
+            934.79,
+            2094.5
+        ]
+    },
+    {
+        "file_name": "015_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1457.7,
+            1893.27,
+            1910.79,
+            2063.01
+        ]
+    },
+    {
+        "file_name": "015_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            1472.76,
+            2547.59,
+            1838.24,
+            2744.71
+        ]
+    },
+    {
+        "file_name": "015_F1.jpg",
+        "width": 2480,
+        "height": 3507,
+        "bbox": [
+            559.72,
+            2529.8,
+            999.1300000000001,
+            2689.9500000000003
+        ]
+    }
+]
