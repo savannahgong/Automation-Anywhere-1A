@@ -1,0 +1,11 @@
+# Dataset root directory
+path: ../datasets/custom_dataset # Change this to your dataset's root directory
+
+# Train, validation, and test image paths
+train: train/images # Path to training images, relative to 'path'
+val: val/images     # Path to validation images, relative to 'path'
+test: test/images   # Path to test images (optional)
+
+# Class names
+names:
+    0: custom_class # Replace "custom_class" with the name of your single class
