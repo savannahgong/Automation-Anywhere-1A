@@ -1,3 +1,9 @@
 # Automation-Anywhere-1A
 
-hello!
+to run streamlit application:
+
+# pip install streamlit
+
+# pip install streamlit pillow
+
+# streamlit run demo.py
