@@ -2,8 +2,8 @@
 
 to run streamlit application:
 
-# pip install streamlit
+pip install streamlit
 
-# pip install streamlit pillow
+pip install streamlit pillow
 
-# streamlit run demo.py
+streamlit run demo.py
