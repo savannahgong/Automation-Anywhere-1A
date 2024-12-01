@@ -7,6 +7,7 @@ from detectron2.config import get_cfg
 from detectron2.utils.visualizer import Visualizer
 from detectron2.data import MetadataCatalog
 from detectron2.model_zoo import get_config_file
+from ultralytics import YOLO  
 
 # Page Title
 st.title("Signature Identification Vision Model")
@@ -28,6 +29,18 @@ def load_detectron2_model():
     return DefaultPredictor(cfg)
 
 predictor = load_detectron2_model()
+
+# Load YOLO Model
+@st.cache_resource
+def load_yolo_model():
+    model_path = "detect/weights/best.pt"  # Path to your YOLO model weights
+    return YOLO(model_path)
+
+# Load models based on selection
+if model_choice == "Detectron2":
+    predictor = load_detectron2_model()
+elif model_choice == "YOLO":
+    yolo_model = load_yolo_model()
 
 # Main Section Layout
 col1, col2 = st.columns([1, 1])
@@ -75,18 +88,31 @@ with col1:
             # Convert PIL image to NumPy array
             image_np = np.array(image)
             
-            # Run Detectron2 Prediction
-            outputs = predictor(image_np)
-            v = Visualizer(image_np[:, :, ::-1], scale=0.5)
-            out = v.draw_instance_predictions(outputs["instances"].to("cpu"))
+            if model_choice == "Detectron2":
+                # Run Detectron2 Prediction
+                outputs = predictor(image_np)
+                v = Visualizer(image_np[:, :, ::-1], scale=0.5)
+                out = v.draw_instance_predictions(outputs["instances"].to("cpu"))
 
-            # Display results
-            st.image(out.get_image()[:, :, ::-1], caption="Detected Signature", use_column_width=True)
-            if len(outputs["instances"].scores) > 0:
-                confidence = outputs["instances"].scores[0].item() * 100
-                st.markdown(f"**Confidence:** {confidence:.2f}%")
-            else:
-                st.markdown("**No signatures detected.**")
+                # Display results
+                st.image(out.get_image()[:, :, ::-1], caption="Detected Signature", use_column_width=True)
+                if len(outputs["instances"].scores) > 0:
+                    confidence = outputs["instances"].scores[0].item() * 100
+                    st.markdown(f"**Confidence:** {confidence:.2f}%")
+                else:
+                    st.markdown("**No signatures detected.**")
+            elif model_choice == "YOLO":
+                # Run YOLO Prediction
+                results = yolo_model(image_np)  # Run inference
+                annotated_image = results[0].plot()  # Annotate image with detections
+                
+                # Display results
+                st.image(annotated_image, caption="Detected Signature", use_column_width=True)
+                if len(results[0].boxes):
+                    confidence = results[0].boxes.conf[0].item() * 100
+                    st.markdown(f"**Confidence:** {confidence:.2f}%")
+                else:
+                    st.markdown("**No signatures detected.**")
         else:
             st.error("Please upload a file before evaluating.")
 
