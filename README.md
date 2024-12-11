@@ -71,7 +71,7 @@ Accuracy: Moderate (best for medium to large signatures)
 
 Detectron2:
 
-Speed: Moderate
+Speed: High
 
 Accuracy: High (particularly effective for smaller signatures)
 
