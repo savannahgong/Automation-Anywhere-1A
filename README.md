@@ -1,6 +1,4 @@
-# Automation-Anywhere-1A
-
-# Vision Model for Signature Detection
+# Automation-Anywhere-1A - Vision Model for Signature Detection
 
 # Overview
 
