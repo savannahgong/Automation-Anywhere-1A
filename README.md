@@ -1,12 +1,12 @@
 # Automation-Anywhere-1A
 
-#Vision Model for Signature Detection
+# Vision Model for Signature Detection
 
-#Overview
+# Overview
 
 This project implements a vision-based data extraction system designed to detect signatures on documents. Using state-of-the-art object detection models, YOLO and Detectron2, the system processes a dataset of various documents to identify and localize signatures with high accuracy.
 
-#Project Workflow
+# Project Workflow
 
 1. Dataset Preparation
 
@@ -61,7 +61,7 @@ The trained models were deployed in a pipeline to process new documents and dete
 Results included the bounding box coordinates and confidence scores for each detected signature.
 
 
-#Results
+# Results
 
 YOLO:
 
