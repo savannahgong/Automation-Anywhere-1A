@@ -59,7 +59,7 @@ The trained models were deployed in a pipeline to process new documents and dete
 Results included the bounding box coordinates and confidence scores for each detected signature.
 
 
-# Results
+# Overall Results
 
 YOLO:
 
@@ -72,4 +72,38 @@ Detectron2:
 Speed: High
 
 Accuracy: High (particularly effective for smaller signatures)
+
+# Data Visualization
+
+<img width="962" alt="Screenshot 2024-12-13 at 6 19 57 PM" src="https://github.com/user-attachments/assets/d57b81cc-e4db-4524-a3aa-83d919bd4bb1" />
+<img width="962" alt="Screenshot 2024-12-13 at 6 19 57 PM" src="https://github.com/user-attachments/assets/1b8529e3-d979-4a62-a7d0-5b12885c3cc5" />
+
+
+## Detectron:
+
+# Sample Output
+
+## Yolo:
+
+<img width="956" alt="Screenshot 2024-12-13 at 6 22 04 PM" src="https://github.com/user-attachments/assets/75dde058-4ceb-4079-bac4-fec9a1430948" />
+
+## Detectron:
+
+<img width="951" alt="Screenshot 2024-12-13 at 6 21 54 PM" src="https://github.com/user-attachments/assets/1ddbac04-3f6e-499b-a9cb-8a746a61b039" />
+
+# Individual Contributions
+
+**Data Preprocessing:** Harini, Savannah, Ananya <br />
+**Detectron2 Model:** Harini, Makayla <br />
+**YOLOV8 Model:** Savannah, Ananya <br />
+**Streamlit Application:** Savannah, Harini <br /> <br />
+
+**Shoutout** to our **Challenge Advisor, Anish** and our **AI Studio TA, Aditya** for guiding us along the way
+
+# Potential Next Steps
+
+- Increasing AP scores for both models
+- utilizing synthetic data to better train each model
+- analyzing wrong predictions to find patterns in mistakes
+
 
